@@ -117,16 +117,15 @@ function App() {
             data-aos-delay="200"
           >
             <img
-              src="/images/portfolio-website.png"
+              src="/src/assets/Ledger.png"
               alt="Portfolio Website Screenshot"
               className="w-full h-48 object-cover rounded-lg mb-4"
             />
             <h4 className="text-2xl font-semibold mb-2 text-blue-700">
-              🌐 Ledger
+              📘 Ledger
             </h4>
             <p className="text-gray-600 text-sm mb-4">
-              Ledger is a personal portfolio website yang dibuat dengan <strong>Vite + React</strong> dan <strong>TailwindCSS</strong>. Website ini menampilkan animasi scroll, desain responsif, serta navigasi yang sederhana dan mudah digunakan.
-            </p>
+              Ledger is a desktop application which use <strong>Vite + React</strong> and <strong>ElectronJS</strong>. This application is used to manage student data at a school. </p>
             <a
               href="#"
               className="inline-block text-blue-600 hover:underline text-sm"
